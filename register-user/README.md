@@ -1,0 +1,3 @@
+This is a simple react demo project for registering a user. 
+At present, I'm only doing form validation for the user details before registering the user. 
+Later on, I will create and add an appropriate backend APIs and a MongoDB database, where in the APIs will allow to store the user registration details to the database, perform updations on the user details such as editing profile and retrieving the stored user details.
